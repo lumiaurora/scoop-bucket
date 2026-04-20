@@ -1,0 +1,15 @@
+{
+    "version": "1.1.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/lumiaurora/subscan/releases/download/v1.1.0/subscan_1.1.0_windows_amd64.zip",
+            "bin": [
+                "subscan.exe"
+            ],
+            "hash": "b49adebc2457a9e2d04fe6b4b298c058bbd7e929f67f8abe5ffa0b6e13c49c13"
+        }
+    },
+    "homepage": "https://github.com/lumiaurora/subscan",
+    "license": "MIT",
+    "description": "Passive subdomain enumeration CLI for OSINT and security research"
+}
